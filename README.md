@@ -45,4 +45,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or support, please contact nishant.officialpost@gmail.com
+For any inquiries or support, please contact vabhishekv2@gmail.com
+
