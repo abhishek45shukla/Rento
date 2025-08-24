@@ -47,3 +47,7 @@ This project is licensed under the MIT License.
 
 For any inquiries or support, please contact vabhishekv2@gmail.com
 
+## Deploy link 
+vercel- rento-liart.vercel.app
+
+
